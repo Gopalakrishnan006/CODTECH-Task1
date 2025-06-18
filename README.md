@@ -28,9 +28,6 @@ Easy customization for any city
 📌 Learning Outcomes:                                                                                 
 Working with REST APIs in Python
 Parsing JSON responses
-
 Data extraction and cleaning
-
 Visualizing time-series data
-
 Gaining practical experience in Python scripting
