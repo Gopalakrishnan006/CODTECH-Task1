@@ -1,4 +1,4 @@
-#CODTECH-Task1
+CODTECH-Task1
 
 Name: GOPALAKRISHNAN.M                                                            
 Company: CODTECH IT SOLUTIONS                                             
