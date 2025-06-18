@@ -1,4 +1,4 @@
-## CODTECH-Task1
+# CODTECH-Task1
 
 Name: GOPALAKRISHNAN.M                                                            
 Company: CODTECH IT SOLUTIONS                                             
@@ -6,7 +6,7 @@ ID: CT04DG2187
 Domain: Python Programming                                                        
 Duration: June to July 2025                                                                       
 
-# 🔍 Project Overview: API INTEGRATION AND DATA VISUALIZATION                                              
+## 🔍 Project Overview: API INTEGRATION AND DATA VISUALIZATION                                              
 
 🎯 Objective:                                                                                                       
 To fetch real-time weather forecast data from a public API (OpenWeatherMap) and visualize the temperature trends using Python libraries such as Matplotlib or Seaborn.
